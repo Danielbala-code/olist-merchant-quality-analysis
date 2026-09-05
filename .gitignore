@@ -1,0 +1,7 @@
+data/raw/
+artifacts/seller_order_fact.csv
+*.inspect.ndjson
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
