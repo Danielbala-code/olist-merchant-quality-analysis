@@ -1,0 +1,10 @@
+check,value,definition
+raw_orders,99441,Source order rows
+seller_order_rows,100010,Analytical seller-order fulfilment rows
+orders_without_items,775,Orders not represented in item data
+multi_seller_orders,1278,Attribution-ambiguous orders
+missing_carrier_timestamp,1783,All order statuses
+missing_delivery_timestamp,2965,All order statuses
+invalid_approval_sequence_rows,0,Seller-order rows
+invalid_carrier_sequence_rows,1398,Seller-order rows
+invalid_delivery_sequence_rows,42,Seller-order rows

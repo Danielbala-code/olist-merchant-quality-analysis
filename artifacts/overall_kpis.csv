@@ -1,0 +1,9 @@
+metric,value,direction
+Delivered orders,4533.0,Context
+On-time delivery rate,0.9314985030726404,Higher
+Late dispatch rate,0.0909616152278505,Lower
+Approval to carrier days,2.8651064393594132,Lower
+Carrier to delivery days,9.364980320426397,Lower
+Purchase to delivery days,12.604035144965598,Lower
+Average review score,4.173521003634261,Higher
+Between-state share,0.6403802720731131,Context

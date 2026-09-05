@@ -1,0 +1,8 @@
+{
+  "analytical_grain": "one row per order_id and seller_id; not a physical parcel",
+  "eligible_single_seller_delivered_orders": 95195,
+  "late_delivery_rate": 0.068501,
+  "merchants_with_minimum_volume": 615,
+  "merchants_with_statistically_elevated_late_rate": 79,
+  "minimum_merchant_orders": 30
+}
